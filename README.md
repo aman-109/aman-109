@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-109&show_icons=true&locale=en" alt="aman-109" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-109&" alt="aman-109" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=aman-109)](https://git.io/streak-stats)
