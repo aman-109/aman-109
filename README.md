@@ -37,4 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman-109&show_icons=true&locale=en" alt="aman-109" /></p>
 
+[![Aman's github activity graph](https://activity-graph.herokuapp.com/graph?username=aman-109&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=aman-109)](https://git.io/streak-stats)
