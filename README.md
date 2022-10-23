@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://aman-109.github.io/](https://aman-109.github.io/)
+- 👨‍💻 All of my projects are available at <a target="_blank" rel="noreferrer" href="https://aman-109.github.io/">Portfolio</a>
 
 - 💬 Ask me about **React Js, Redux, MongoDB, Express, Node**
 
 - 📫 How to reach me **aman.mate.52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view](https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view)
+- 📄 Know about my experiences <a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/11aGyyK6iuBeQ_mvU9WPJEbmzsREkxfMP/view">Resume</a> 
 
 - ⚡ Fun fact **I am Funny**
 
